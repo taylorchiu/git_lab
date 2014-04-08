@@ -11,4 +11,6 @@ git clone : copy a repo from github
 
 git pull: pull files from a remote repo to your local repo
 
+git status : tells you what files have been added, staged, or deleted (state of your directory)
+git log : history of your commits
 
